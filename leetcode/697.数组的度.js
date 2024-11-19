@@ -60,4 +60,4 @@ var findShortestSubArray = function(nums) {
  * 数组的度是 3 ，因为元素 2 重复出现 3 次。
  * 所以 [2,2,3,1,4,2] 是最短子数组，因此返回 6 。
  */
-console.log(findShortestSubArray(1,2,2,3,1)); 
+console.log(findShortestSubArray([1,2,2,3,1])); 
